@@ -1,5 +1,5 @@
 body {
-    color: #222222;
+    color: #b4ebaf;
     font-size: 1em;
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
 }
@@ -12,7 +12,7 @@ body {
 
 .masthead {
   padding: 6em 0;
-  background-image: url('../img/code.jpg');
+  background-image: url('../img/test_bg.png'); 
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -20,7 +20,7 @@ body {
 .masthead-intro {
     margin-bottom: 0.1em;
     font-size: 2em;
-    color: #ffffff;
+    color: #f3f8f2;
 }
 
 .masthead-heading {
@@ -29,7 +29,7 @@ body {
     font-size: 6em;
     letter-spacing: -0.02em;
     text-transform: uppercase;
-    color: #ffffff;
+    color: #b4ebaf;
 }
 
 .details {
