@@ -2,10 +2,11 @@ body {
     color: #b4ebaf;
     font-size: 1em;
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
-    background-color: #242424;
+    background-color: #141414;
 }
 
-.content-footer,
+.content-footer,{color: #000;}
+
 .masthead-heading,
 .masthead-intro {
   text-align: center;
