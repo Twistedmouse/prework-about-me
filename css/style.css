@@ -29,7 +29,7 @@ body {
     font-size: 6em;
     letter-spacing: -0.02em;
     text-transform: uppercase;
-    color: #b4ebaf;
+    color: #f3f8f2;
 }
 
 .details {
@@ -62,7 +62,7 @@ section > h1 {
 }
 
 #footer a {
-  color: #ffffff;
+  color: #b4ebaf;
 }
 .social > li {
   display: inline-block;
